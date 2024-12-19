@@ -4,6 +4,7 @@
   "type": "module",
   "private": true,
   "exports": {
+    "./Common/subheader.tsx": "./src/Common/subheader.tsx",
     "./button": "./src/button.tsx",
     "./card": "./src/card.tsx",
     "./code": "./src/code.tsx"
